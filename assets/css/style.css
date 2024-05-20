@@ -96,7 +96,7 @@ body {
     /* Início do menu */
     .open-close-btn {
         display: inline-block;
-        position: absolute;
+        position: fixed;
         right: 20px;
         top: 10px;
         background-color: var(--open-close-btn-bg-color);
@@ -106,7 +106,7 @@ body {
     }
 
     .header {
-        position: absolute;
+        position: fixed;
         top: 0;
         bottom: 0;
         width: 100%;
