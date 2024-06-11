@@ -42,6 +42,7 @@ body {
 /* Início do menu */
 .open-close-btn {
     display: none;
+    cursor: pointer;
 }
 
 .header {
